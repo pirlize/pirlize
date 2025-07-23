@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at **EY**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **.Net**
 
 - 👯 My Area of Interests are **Web Dev, Testing, DevOps**
 
-- 🤝 I’m looking for help with **Climate Change**
+- 🤝 I’m looking to help with **Climate Change**
 
 - ⚡ Fun fact **I Run Ultra-Marathons & Trails, play chess & enjoy a good book.**
 
